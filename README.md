@@ -8,14 +8,14 @@
 ## Requisitos para iniciar a avaliação
 
 - [x] Projeto é de complexidade igual ou maior a "Jogo world-of-zuul" visto em sala de aula.
-- [ ] Descrição completa do Problema a ser resolvido : EM PDF
-- [ ] Diagrama de classes feito em BlueJ, Descrever a herança no seu projeto de classes e sua importancia (não será aceito em outra ferramenta) : EM PDF
-- [ ] Envio da pasta do Projeto compactado em arquivo zip (Somente em arquivo zip, se for em outro formato de compactação não será aceito) : EM .ZIP
+- [x] Descrição completa do Problema a ser resolvido : EM PDF
+- [x] Diagrama de classes feito em BlueJ, Descrever a herança no seu projeto de classes e sua importancia (não será aceito em outra ferramenta) : EM PDF
+- [x] Envio da pasta do Projeto compactado em arquivo zip (Somente em arquivo zip, se for em outro formato de compactação não será aceito) : EM .ZIP
   4.1 Independente da IDE utilizada (Eclipse, IntelliJ, etc) a pasta somente deve conter os arquivos fontes (SEM ARQUIVOS DE PROJETO, específico da IDE)
   4.2 Gerar um arquivo executável .jar para a máquina virtual java e colocar na pasta principal/raiz
   4.3 Caso algum projeto esteja usando bibliotecas externas será necessário colocar em um arquivo README.txt na pasta principal/raiz desvrevendo esses detalhes.
   4.4 Considerem que será recompilado o programa portanto qualquer outro detalhe técnico pode ser colocado no arquivo README.txt
-- [ ] O Projeto não deve conter nenhum erro de compilação nem warning/alerta  
+- [x] O Projeto não deve conter nenhum erro de compilação nem warning/alerta  
 - [x] Construiu Interface Gráfica utilizando Java no paradigma POO
 
 =====================================================================
